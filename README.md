@@ -19,3 +19,5 @@ This was developed against an OrangeHRM OS 5.7 deployment; other versions or cus
 To regenerate `bookmarklet.txt` after editing the source, run `python3 build-bookmarklet.py`.
 
 This is an independent community tool and is not affiliated with OrangeHRM. OrangeHRM Starter is [open source](https://github.com/orangehrm/orangehrm); this tool has its own [MIT license](LICENSE).
+
+Optional: [Send via PayPal (@lawsy94)](https://paypal.me/lawsy94).
